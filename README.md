@@ -108,12 +108,12 @@ power efficiency of the memory cell.
 
 <img width="626" height="569" alt="image" src="https://github.com/user-attachments/assets/eb484f71-1f88-48d4-a30f-cc753841b7e5" />
 
-#Author
+# Author
 
-Surya Kiran
+Surya Kiran\
 GitHub: surya-kiran-0301
 
-#License
+# License
 
 This project is available for educational and learning purposes.
 
