@@ -13,6 +13,13 @@ Case 1: Storing bit 1 in SRAM cell
 
 <img width="1619" height="465" alt="image" src="https://github.com/user-attachments/assets/8d83abf4-8b7b-43d8-a9aa-17f7eb94d341" />
 
+<img width="661" height="314" alt="image" src="https://github.com/user-attachments/assets/aaf839b1-60f4-456c-a32f-3b68a0df6b6a" />
+Waveforms of WL, WE, RE, Data
 
-![Figure 1:Waveforms of WL, WE, RE, Data](image.png)
+<img width="661" height="314" alt="image" src="https://github.com/user-attachments/assets/499cded3-24b6-4f34-9d0e-d2e7342bffbd" />
+Waveforms of BL, out1, BLC, out2
+
+<img width="661" height="313" alt="image" src="https://github.com/user-attachments/assets/19364b37-cf71-4c9b-915c-3404434be036" />
+Waveforms of EN, SAE, Vout
+
 
