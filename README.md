@@ -7,4 +7,5 @@ lines during read and write operations. Unlike DRAM, SRAM does not require perio
 long as power is supplied, making it faster and more reliable for high-speed applications such as 
 processor caches and embedded memories. 
 
-#How to understand this
+# How to understand this
+
