@@ -11,6 +11,7 @@ processor caches and embedded memories.
 
 Case 1: Storing bit 1 in SRAM cell
 
+<img width="1619" height="465" alt="image" src="https://github.com/user-attachments/assets/8d83abf4-8b7b-43d8-a9aa-17f7eb94d341" />
 
 
 ![Figure 1:Waveforms of WL, WE, RE, Data](image.png)
