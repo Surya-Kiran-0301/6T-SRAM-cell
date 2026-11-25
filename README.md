@@ -7,6 +7,8 @@ lines during read and write operations. Unlike DRAM, SRAM does not require perio
 long as power is supplied, making it faster and more reliable for high-speed applications such as 
 processor caches and embedded memories. 
 
+To understand how each peripheral circuit is connected together and what are the values of the input pulse voltages given open this [schematic](sram_65nm_fullCKT.asc)
+
 # Working
 
 1. [SRAM cell](6tsram_65nm.asc)<br>
@@ -66,13 +68,6 @@ digital output.
 Finally, the outputs of the sense amplifier are connected to buffers, which isolate the latch from the 
 external load and prevent any degradation of the amplified signal. The buffered outputs provide 
 stable logic levels corresponding to the data stored in the SRAM cell.
-
-
-
-
-
-
-
 
 
 # Observations
