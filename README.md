@@ -9,3 +9,4 @@ processor caches and embedded memories.
 
 # Working
 
+![Figure 7:Waveforms of WL, WE, RE, Data](image.png)
