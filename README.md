@@ -104,6 +104,14 @@ Waveforms of BL, out1, BLC, out2
 <img width="673" height="319" alt="image" src="https://github.com/user-attachments/assets/ba390854-c03c-4e92-8d8b-9f3cb781d506" /><br>
 Waveforms of  EN, SAE, Vout
 
+# Characteristics
+
+The performance of the designed 6T SRAM cell was evaluated through transient and DC 
+simulations. The key characteristics analyzed include power consumption, delay, static noise margin, 
+write margin, and access time. These parameters provide an indication of the speed, stability, and 
+power efficiency of the memory cell. 
+
+<img width="626" height="569" alt="image" src="https://github.com/user-attachments/assets/eb484f71-1f88-48d4-a30f-cc753841b7e5" />
 
 
 
