@@ -47,7 +47,7 @@ PMOS transistor connects BL and BLC, ensuring that both bit lines are maintained
 voltage level before the start of a read operation. Precharging and equalizing the bit lines minimizes 
 the initial voltage difference, thereby improving the speed and reliability of the read operation.
 
-4. [Sense Amplifier](sense amplifier_sram.asc)
+4. [Sense Amplifier](sense_amplifier_sram.asc)
 
    The sense amplifier operates during the read operation, when the control signals are WL = 1, 
 WE = 0, and RE = 0. Initially, both bit lines (BL and BLC) are precharged to VDD by the 
