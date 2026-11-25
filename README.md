@@ -9,4 +9,9 @@ processor caches and embedded memories.
 
 # Working
 
-![Figure 7:Waveforms of WL, WE, RE, Data](image.png)
+Case 1: Storing bit 1 in SRAM cell
+
+
+
+![Figure 1:Waveforms of WL, WE, RE, Data](image.png)
+
