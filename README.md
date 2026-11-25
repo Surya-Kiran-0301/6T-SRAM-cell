@@ -38,7 +38,7 @@ driver, preventing any unintended modification of the stored data.
 By driving BL and BLC with complementary logic levels during the write operation, the write driver 
 forces the SRAM cell to store the desired logic value when the word line is asserted.
 
-3. [Precharge Driver]
+3. [Precharge Driver](Precharge_driver_65nm.asc)
    
    When the precharge enable (RE) signal is enabled, the precharge circuit is activated, turning 
 on the PMOS transistors connected to the bit lines. As a result, both the bit line (BL) and the 
@@ -47,7 +47,7 @@ PMOS transistor connects BL and BLC, ensuring that both bit lines are maintained
 voltage level before the start of a read operation. Precharging and equalizing the bit lines minimizes 
 the initial voltage difference, thereby improving the speed and reliability of the read operation.
 
-4. Sense Amplifier
+4. [Sense Amplifier](sense amplifier_sram.asc)
 
    The sense amplifier operates during the read operation, when the control signals are WL = 1, 
 WE = 0, and RE = 0. Initially, both bit lines (BL and BLC) are precharged to VDD by the 
